@@ -1,6 +1,7 @@
 /* Stock List Styling
  ********************/
 .stocks-container {
+  margin: 0 auto;
   display: flex;
   justify-content: center;
 }
